@@ -275,7 +275,11 @@ ul {
   }
 
 #education-title img {
-  width: 10%;
+  width: 15%;
+  background-color: #FFFFFF;
+  border-radius: 4px;
+  margin: 15px;
+
   }
 
 #school {
@@ -283,7 +287,7 @@ ul {
   }
 
 #school p {
-  font-size: 14px;
+  font-size: 16px;
   }
 
 #school * {
@@ -382,6 +386,7 @@ ul {
   opacity: 1;
   }
 
+
 .img-description {
   transition: .5s;
   color: #575757;
@@ -427,7 +432,7 @@ ul {
   transition: .4s;
   }
 
-#social-container a:hover {
+#social-container a: hover {
   color: #8d8d8d;
   }
 
